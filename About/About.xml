@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Architect Hotkeys Anywhere</name>
+  <author>zirize</author>
+  <packageId>zirize.ArchitectHotkeysAnywhere</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <loadAfter>
+    <li>Aze.Hotkeys.Fork.mitasamodel</li>
+  </loadAfter>
+  <description>Companion for the Hotkeys mod: its Architect "category tab" hotkeys normally work only while the Architect menu is already open. With this mod, pressing one of them while the menu is closed opens the Architect menu directly on that category (e.g. Orders).
+
+Uses the bindings Hotkeys defines (Options > Keyboard > Architect Hotkeys); it adds no bindings of its own. No Harmony patch.</description>
+</ModMetaData>
