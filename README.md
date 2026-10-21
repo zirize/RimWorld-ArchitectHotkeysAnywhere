@@ -1,5 +1,7 @@
 # Architect Hotkeys Anywhere
 
+![Preview](About/Preview.png)
+
 A small RimWorld companion mod for **Hotkeys 1.6** (mitasamodel's fork, `Aze.Hotkeys.Fork.mitasamodel`).
 
 Hotkeys lets you bind a key to each Architect category ("Orders tab", "Structure tab", ...), but
