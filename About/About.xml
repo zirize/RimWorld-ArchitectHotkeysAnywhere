@@ -10,7 +10,13 @@
   <loadAfter>
     <li>Aze.Hotkeys.Fork.mitasamodel</li>
   </loadAfter>
-  <description>Companion for the Hotkeys mod: its Architect "category tab" hotkeys normally work only while the Architect menu is already open. With this mod, pressing one of them while the menu is closed opens the Architect menu directly on that category (e.g. Orders).
+  <description>Companion for the Hotkeys 1.6 mod: its Architect "category tab" hotkeys normally work only while the Architect menu is already open. With this mod, pressing one of them while the menu is closed opens the Architect menu directly on that category (e.g. Orders).
 
-Uses the bindings Hotkeys defines (Options > Keyboard > Architect Hotkeys); it adds no bindings of its own. No Harmony patch.</description>
+- Uses the bindings Hotkeys defines (Options > Keyboard > Architect Hotkeys, with "Architect Hotkeys" enabled in Hotkeys' mod settings); adds none of its own.
+- While the Architect menu is open nothing changes; Hotkeys handles the key as before.
+- Ignored while typing in a text field, while a modal dialog is open, or on the world map.
+- No Harmony patch. Load after Hotkeys.
+
+Tested on RimWorld 1.6 and 1.7 (unstable).
+Source (MIT): https://github.com/zirize/RimWorld-ArchitectHotkeysAnywhere</description>
 </ModMetaData>

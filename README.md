@@ -16,6 +16,10 @@ is closed opens the Architect menu directly on that category.
 
 Tested on RimWorld 1.6.4871 and 1.7.4984 (unstable branch).
 
+## Get it
+
+- Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3824191022
+
 ## Requirements
 
 - [Hotkeys 1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3536306259) with
